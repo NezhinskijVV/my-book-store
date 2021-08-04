@@ -34,7 +34,7 @@ public class MenuServiceImpl implements MenuService {
 
     @Override
     public void printMenu() {
-        System.out.println("1 - Купить; 2 - Отдать; Все остальное выход");
+        System.out.println("1 - Купить; 2 - Отдать; 3 - Вывод книг; Все остальное выход");
     }
 
 
